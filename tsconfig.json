@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",  // גרסת JavaScript שהקוד יומר אליה
+    "module": "commonjs",  // מודול עבודה עבור Node.js
+    "strict": true,  // הפעלת בדיקות קפדניות ב-TypeScript
+    "esModuleInterop": true,  // מאפשר עבודה עם ייבוא JavaScript רגיל
+    "skipLibCheck": true
+  }
+}
+
